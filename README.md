@@ -1,4 +1,4 @@
-# World-jni
+# World-Android-Test
 
 Android JNI test of [World](https://github.com/mmorise/World).
 
