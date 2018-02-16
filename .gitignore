@@ -1,0 +1,8 @@
+*.swo
+*.swp
+*.swn
+*.swm
+
+.gradle
+build
+app/.externalNativeBuild
